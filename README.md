@@ -1,2 +1,2 @@
 
-![This is an image](https://www.kindpng.com/imgv/woooii_github-logo-png-github-png-transparent-png/)
+![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
